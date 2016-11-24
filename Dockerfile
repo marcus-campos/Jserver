@@ -1,4 +1,4 @@
-FROM ubuntu:16:10
+FROM ubuntu:16.10
 
 MAINTEINER Marcus Campos <marcus_vinicius_campos@hotmail.com>
 
